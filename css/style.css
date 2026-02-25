@@ -1,0 +1,323 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #48f;
+}
+
+h1{
+    font-size: 60PX;
+    margin: 0;
+}
+
+h2{
+    font-size: 40px;
+}
+
+header{
+    width: 100%;
+    height: 50dvh;
+    background-image: url("../img/header.jpg");
+    background-size: cover;
+    background-position: center;      
+    display: flex;
+    align-items: end;   
+    justify-content: center;
+}
+
+
+
+/*-------------- BARRA HORIZONTAL -----------*/
+.hor_nav{    
+    width: 100%;
+    height: 40px;      
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+    position: sticky;
+    top: 0;  
+    background-color:#9dc4f6;
+    box-shadow: 0 0 30px black;  
+}
+
+.hor_list{
+    margin: 0;
+    display: flex;
+    gap: 5px;
+    padding: 0;     
+}
+
+.hor_items{    
+    list-style: none;
+    border-radius: 20px;
+    padding: 5px;
+    transition-property: background-color;
+    transition-duration: .4s;
+}
+
+.hor_items a{     
+    text-decoration: none; 
+    color: #551A8B;   
+}
+
+.hor_items:hover{
+    background-color: #48e;
+    transition-property: background-color;
+    transition-duration: .4s;
+}
+
+/*----------------------------------------*/
+
+/* divs para ubicar cada juguete en la tienda */
+
+main{
+    display: flex; 
+    flex-wrap: wrap;   
+    align-items: center; 
+    justify-content: center;     
+}
+
+
+/* ESTO SE REPITE POR CADA ELEMENTO SOLO CAMBIAR EL NUMERO DE CADA ELEMENTO */
+/* ------------------------------------------------ */
+
+.container{
+    width: 95%;    
+    min-height: 400px;
+    background-color: #551A8B;
+    box-shadow: 0 0 40px black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);      
+    gap: 3px; 
+    border-radius: 10px; 
+    box-sizing: border-box;
+}
+
+.nombre{
+    width: 100%;
+    background-color: aliceblue;               
+    grid-column-start: 1;
+    grid-column-end: 6;    
+    border-radius: 0 0 10px 10px;     
+    padding: 0;      
+}
+
+p{     
+    font-size: 16px;        
+    width: 100%;
+    white-space:pre-line;
+    margin-left: 10px; 
+    text-align: left;     
+}
+
+/* AHORA IREMOS AGREGANDO LAS FOTOS DE CADA PRODUCTO */
+
+.foto1{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987226/1_nbyqts.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto2{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987225/2_k32goo.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto3{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987229/3_gd0xic.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto4{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987229/4_xzhxrn.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto5{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987229/5_z528mi.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto6{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987230/6_fmmljv.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto7{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987234/7_h6kkrk.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto8{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987236/8_xb7vtl.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto9{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987236/9_zd3dbt.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto10{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987237/10_qsl9qy.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto11{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987223/11_jzy2ml.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto12{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987226/12_bvbxec.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto13{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987224/13_j9fcjb.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto14{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987227/14_bas3r8.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto15{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987229/15_o9rawj.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto16{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987230/16_cunqfj.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto17{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987233/17_vmloie.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+.foto18{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987237/18_xlxxet.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto19{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987248/19_oem7fp.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto20{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987248/20_pkm8pu.jpg");
+    background-size: cover;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+
+
+/* ----------------------------------------------------- */
+
+/* ESTO SE REPITE POR CADA ELEMENTO SOLO CAMBIAR EL NUMERO DE CADA ELEMENTO */
+/* ------------------------------------------------ */
