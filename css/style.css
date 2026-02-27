@@ -415,7 +415,295 @@ p{
     border-radius: 10px 10px 0 0;
 }
 
+.foto31{
+    min-height: 300px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987260/36_szbayb.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
 
+.foto32{
+    min-height: 300px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987264/37_zo0nbj.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto33{
+    min-height: 300px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987258/33_k6avxy.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto34{
+    min-height: 600px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987260/34_dpl8py.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto35{
+    min-height: 700px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987259/35_z50yut.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto36{
+    min-height: 400px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987266/38_mpqmuq.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto37{
+    min-height: 600px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987274/46_khtbmd.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto38{
+    min-height: 800px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987265/39_ou9d6u.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto39{
+    min-height: 800px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987266/40_uaimmi.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto40{
+    min-height: 800px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987268/42_stbkuj.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto41{
+    min-height: 200px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987267/41_jok8co.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto42{
+    min-height: 300px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987270/43_v8jbzu.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto43{
+    min-height: 700px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987273/44_chs6h4.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto44{
+    min-height: 700px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987271/45_y6nenl.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto45{
+    min-height: 400px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987276/48_qfqkfz.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto46{
+    min-height: 400px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987276/49_n7xiuw.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto47{
+    min-height: 400px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987274/47_fdz1ee.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto48{
+    min-height: 300px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987276/50_q8vouk.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto49{
+    min-height: 400px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987278/51_ve3soh.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto50{
+    min-height: 600px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987281/52_efyvbb.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto51{
+    min-height: 400px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987279/53_oddca0.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto52{
+    min-height: 800px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987279/54_qubzti.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto53{
+    min-height: 600px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987284/55_ldaxno.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto54{
+    min-height: 300px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987283/56_kfwo8v.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto55{
+    min-height: 800px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987283/57_qu4jxh.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto56{
+    min-height: 500px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987284/58_gi4d11.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto57{
+    min-height: 500px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987283/59_oq9w0c.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto58{
+    min-height: 300px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987223/61_o4vvza.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
+
+.foto59{
+    min-height: 250px;
+    background-image: url("https://res.cloudinary.com/dumxtozlm/image/upload/v1771987285/60_j0cqk6.jpg");
+    background-size: 100% 100%;
+    background-position: center; 
+    grid-column: 1/6;
+    grid-row: 1/5;
+    border-radius: 10px 10px 0 0;
+}
 /* ----------------------------------------------------- */
 
 /* ESTO SE REPITE POR CADA ELEMENTO SOLO CAMBIAR EL NUMERO DE CADA ELEMENTO */
