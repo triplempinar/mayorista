@@ -1,7 +1,9 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #48f;
+    /*background-color: #48f;*/
+    background-image: url("../img/body.jpg");
+    background-size:contain;
 }
 
 h1{
